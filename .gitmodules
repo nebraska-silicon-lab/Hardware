@@ -1,0 +1,3 @@
+[submodule "ETL/ETL-SH-Design"]
+	path = ETL/ETL-SH-Design
+	url = git@github.com:danbarto/ETL-SH-Design.git
