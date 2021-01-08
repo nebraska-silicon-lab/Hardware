@@ -1,0 +1,5 @@
+*.pdf
+*.lck
+*.png
+/OldVersions
+newVer.iam
